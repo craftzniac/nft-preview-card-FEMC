@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/craftzniac/nft-preview-card-FEMC) 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Demo](https://nft-preview-card-femc.vercel.app/)
 
 ## My process
 
